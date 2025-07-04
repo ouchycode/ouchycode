@@ -1,42 +1,40 @@
-<h1 align="center">Hi 👋, I'm Kevin Ardiansyah</h1>
-<h3 align="center">A self-taught web developer from Tangerang, Banten.</h3>
+<h1 align="center">Hey, I'm Kevin Ardiansyah 👋</h1>
+<h3 align="center">Backend developer who loves building scalable and well-structured systems.</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 A Little About Me
 
-- 🔭 I’m currently working on **responsive and interactive web applications**
-- 🤝 I’m looking to collaborate on **frontend projects** with modern JavaScript frameworks
-- 💡 I’m looking for help mastering **backend integration** to become a full-stack dev
-- 📚 I’m currently learning **React.js** and **TypeScript** for better code scalability
-- 💬 Ask me about **frontend dev**, **UI/UX**, and **performance optimization**
-- ⚡ Fun fact: I love solving puzzles and I’m a minimalist design enthusiast
+- 🔧 I specialize in building and maintaining backend systems, APIs, and databases  
+- 🤝 I'm open to collaborate on backend-heavy or full-stack projects  
+- 🧱 Currently focused on **Laravel**, **REST APIs**, and **MySQL/PostgreSQL**  
+- 🚀 I enjoy writing clean, modular code and solving performance bottlenecks  
+- 🛠️ Actively learning about system architecture, Docker, and cloud deployment  
+- ⚙️ I also dabble in automation, scripting, and building internal tools  
 
 ---
 
 ### 🌐 Socials
 
-[![Instagram: caidenrev](https://img.shields.io/badge/@caidenrev-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caidenrev)
-[![Instagram: vannevercheated](https://img.shields.io/badge/@vannevercheated-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vannevercheated)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@vannevercheated)
+[![Instagram: kevinnardd_](https://img.shields.io/badge/@kevinnardd_-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevinnardd_)
+[![Instagram: kev.workspace](https://img.shields.io/badge/@kev.workspace-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kev.workspace)
 
 ---
 
-### 💻 Tech Stack
+### ⚙️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📫 Contact Me
+### 📫 Let’s Connect
 
-- 🌍 Website: [frevan.vercel.app](https://frevan.vercel.app)
-- 📍 Location: Bogor, West Java
+- 🌐 Website: [kev-dev.my.id](https://kev-dev.my.id)  
+- 📍 Location: Tangerang, Banten
