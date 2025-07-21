@@ -1,34 +1,38 @@
-<!-- 💻 Profile Header -->
+<!-- Profile Header -->
 <div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Hi,+I'm+Kevin+Ardiansyah+👋;Laravel+%26+Next.js+Developer;Crafting+Clean+Code+%26+Meaningful+UI" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" alt="wave" width="100%" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I’m **Kevin Ardiansyah**, a passionate **fullstack developer** based in Indonesia 🇮🇩  
-I love building products that are not only functional but also beautifully crafted.
+Hey there! I’m **Kevin**, a fullstack web developer from Indonesia 🇮🇩  
+I specialize in building **scalable**, **responsive**, and **user-friendly** web apps using:
 
-🛠️ My core strengths:
-- ⚙️ **Laravel + Next.js** for solid backend & modern frontend
-- 🎨 **Tailwind CSS** for clean, responsive UIs
-- ☁️ **Firebase & Supabase** for cloud-native features
-- 🧪 Currently diving into **CI/CD**, **DevOps**, and **Serverless**
+- ⚙️ **Laravel + Next.js** as my backend/frontend stack  
+- 🎨 **Tailwind CSS** to create beautiful and modern UI  
+- ☁️ **Firebase & Supabase** to power real-time and cloud-based features  
+- 🧪 Currently exploring **CI/CD**, **DevOps**, and **Serverless**
 
-I enjoy building **end-to-end apps** — from database schemas to polished UIs.  
-Open to **collaborations**, **freelance work**, or **remote roles**.
+I love working on end-to-end systems — from database schema design to frontend pixel perfection.  
+Open to **freelance**, **collab**, or **remote** opportunities 💼
 
 ---
 
 ## 🌐 Live Portfolio
 
-🔎 Check out my work, experiments, and design vibes:
+Explore my projects, style, and case studies:
 
-[![View Website](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kev-workspace.vercel.app)
+🔗 **[kev-workspace.vercel.app](https://kev-workspace.vercel.app)**  
+📷 Live Previews | 💡 Ideas Realized | 🔍 Behind-the-Code
 
-📍 [kev-workspace.vercel.app](https://kev-workspace.vercel.app)  
-🧠 Live demos | UX concepts | Clean code | Pixel-perfect design
+[![Portfolio Button](https://img.shields.io/badge/View%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kev-workspace.vercel.app)
 
 ---
 
@@ -59,47 +63,42 @@ Open to **collaborations**, **freelance work**, or **remote roles**.
 
 ## 🔥 Firebase in Action
 
-What I build with Firebase:
+Some of the ways I use Firebase in my apps:
 
-- 🔐 Auth: Google / Email / Anonymous
-- ⚡ Firestore: Real-time syncing
-- ☁️ Cloud Functions: Backend magic
-- 📁 Storage: Secure file uploads
-- 🚀 Hosting: Blazing fast delivery
+- 🔐 Authentication (Google, Email, Anonymous)
+- 📦 Firestore for real-time data sync
+- ☁️ Cloud Functions for backend logic
+- 📁 Storage for secure file uploads
+- 🚀 Hosting for lightning-fast deployments
 
-💡 Used in:
-- 📱 **Payment Tracker App (17 Agustusan)**
-- 📦 **Product Management System**
+🧪 Used in projects like:
+- ✅ **Payment Tracker App (17 Agustusan)**
+- ✅ **Product Management System**
 
 ---
 
 ## 📊 GitHub Insights
 
-<!-- Dark Mode -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=radical" alt="Kevin's GitHub Stats (Dark)" />
-  <br/>
-  <a href="#light-mode">🌞 View Light Mode</a>
-</p>
-
-<!-- Light Mode -->
-<p align="center" id="light-mode">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=default" alt="Kevin's GitHub Stats (Light)" />
-  <br/>
-  <a href="#github-insights">🌙 Back to Dark Mode</a>
-</p>
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ouchycode&theme=gruvbox&no-frame=true&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ouchycode&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 💬 Dev Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🐍 GitHub Activity Snake
+
+![snake gif](https://github.com/ouchycode/ouchycode/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -114,4 +113,4 @@ What I build with Firebase:
 
 📍 Tangerang, Banten, Indonesia  
 🌐 [kev-workspace.vercel.app](https://kev-workspace.vercel.app)  
-✉️ Reach me via Instagram DM or [Contact Form](https://kev-workspace.vercel.app/contact)
+✉️ DM on Instagram or [send me a message](https://kev-workspace.vercel.app/contact)
