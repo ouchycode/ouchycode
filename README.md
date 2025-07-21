@@ -1,13 +1,13 @@
 
 <!-- Profile Header -->
 <div align="center">
-  👋
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Hi,+I'm+Kevin+Ardiansyah+👋;Laravel+%26+Next.js+Developer;Crafting+Clean+Code+%26+Meaningful+UI" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:000000&height=100&section=header"/>
 </p>
+
 
 ---
 
