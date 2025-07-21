@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=👋+Hi+there!+I'm+Kevin;🚀+Laravel+%26+Next.js+Developer;💡+Crafting+Modern+Web+Apps;🌟+Learning+and+Building" alt="Typing Animation" />
-</div>](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=👋+Hi+there!+I'm+Kevin;🚀+Laravel+%26+Next.js+Developer;💡+Building+awesome+web+apps;🌟+Always+learning+new+things)
+</div>
 
 <!-- Profile Stats -->
 <div align="center">
@@ -122,7 +122,3 @@ Hey there! I'm **Kevin**, a passionate developer from Indonesia 🇮🇩
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=120&section=footer" />
 
 </div>
-```
-
----
-
