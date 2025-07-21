@@ -1,211 +1,278 @@
-# ✨ Kevin Ardiansyah - Fullstack Developer ✨
+# ⚡ Kevin Ardiansyah - Laravel & Next.js Developer ⚡
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=150&section=header&text=Kevin%20Ardiansyah&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=200&section=header&text=Kevin%20Ardiansyah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20%26%20Next.js%20Specialist&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Welcome+to+my+digital+universe!;💻+Laravel+%7C+Next.js+%7C+Cloud+Expert;🌟+Turning+ideas+into+reality;⚡+Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=120&lines=🚀+Hi!+I'm+Kevin%2C+your+web+dev+partner;💻+Laravel+API+%7C+Next.js+Frontend+Expert;🌟+Building+modern+full-stack+applications;⚡+Clean+code%2C+beautiful+interfaces" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ouchycode&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/ouchycode?style=for-the-badge&color=4ECDC4&labelColor=1a1a1a&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-brightgreen?style=for-the-badge&logo=statuspal" />
+  <img src="https://komarev.com/ghpvc/?username=ouchycode&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/ouchycode?style=for-the-badge&color=0080FF&labelColor=1a1a2e&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_PROJECTS-00D9FF?style=for-the-badge&logo=statuspal" />
 </div>
 
 ---
 
-## 🎭 Meet Kevin - The Code Craftsman
+## 🎯 About Kevin - The Full-Stack Specialist
 
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string[];
-  superpowers: string[];
-  currentMission: string;
-  lifePhilosophy: string;
+```php
+<?php
+
+class KevinArdiansyah
+{
+    public string $name = "Kevin Ardiansyah";
+    public string $location = "🏝️ Tangerang, Banten, Indonesia";
+    public array $expertise = [
+        'backend' => ['Laravel', 'PHP', 'REST APIs', 'Database Design'],
+        'frontend' => ['Next.js', 'React', 'TypeScript', 'Tailwind CSS'],
+        'specialization' => 'Full-Stack Web Applications'
+    ];
+    
+    public string $passion = "Creating seamless user experiences with robust backends";
+    public string $currentFocus = "Building scalable Laravel APIs + Next.js frontends";
+    public string $motto = "Simple solutions to complex problems 🚀";
+    
+    public function getSkillLevel(): array
+    {
+        return [
+            'Laravel' => '⭐⭐⭐⭐⭐',
+            'Next.js' => '⭐⭐⭐⭐⭐',
+            'PHP' => '⭐⭐⭐⭐⭐',
+            'React' => '⭐⭐⭐⭐⭐',
+            'TypeScript' => '⭐⭐⭐⭐',
+            'TailwindCSS' => '⭐⭐⭐⭐⭐'
+        ];
+    }
 }
-
-const kevin: Developer = {
-  name: "Kevin Ardiansyah",
-  location: "🏝️ Tangerang, Banten, Indonesia",
-  role: ["Fullstack Developer", "UI/UX Enthusiast", "Problem Solver"],
-  superpowers: [
-    "🔥 Laravel Wizard",
-    "⚛️ React/Next.js Ninja", 
-    "🎨 Tailwind CSS Artist",
-    "☁️ Cloud Architecture Guru",
-    "🚀 Performance Optimization Master"
-  ],
-  currentMission: "Building digital experiences that matter 💫",
-  lifePhilosophy: "Code is poetry, bugs are just plot twists! 🎪"
-};
 ```
 
 <div align="center">
 
-### 🌟 *"Passionate developer crafting digital dreams into reality"* 🌟
+### 🌟 *"Specialized in Laravel backend + Next.js frontend magic"* 🌟
 
-*🎯 Specializing in modern web applications with clean code and stunning UI*
+*🎯 Turning complex business logic into elegant, performant web applications*
 
 </div>
 
 ---
 
-## 🛠️ My Tech Universe
+## 🛠️ My Core Tech Stack
 
-### 🎨 Frontend Galaxy
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-</div>
-
-### ⚙️ Backend Universe
+### 🔧 Backend Powerhouse (Laravel Ecosystem)
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0080FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00D9FF?style=for-the-badge&logo=swagger&logoColor=white)
 
 </div>
 
-### ☁️ Cloud Dimension
+### ⚛️ Frontend Excellence (Next.js Universe)
 <div align="center">
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-00D9FF?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+### ☁️ Deployment & Tools
+<div align="center">
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=0080FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=0080FF&fire=00D9FF&currStreakLabel=0080FF" />
 </div>
 
-## 🏆 Achievement Showcase
+## 🏆 Achievement Gallery
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ouchycode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ouchycode&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
 
-## 🎨 Featured Masterpieces
+## 🎨 Featured Projects
 
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" width="50%">
 <a href="https://kev-workspace.vercel.app">
-<img src="https://img.shields.io/badge/🚀_Digital_Workspace-000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_Digital_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+<br><br>
+<strong>Personal Portfolio & Showcase</strong>
 <br>
-<em>Personal Portfolio & Showcase</em>
-<br>
-<code>Next.js • TailwindCSS • Framer Motion</code>
+<em>Modern, responsive portfolio built with Next.js</em>
+<br><br>
+<code>Next.js 14 • TailwindCSS • TypeScript • Framer Motion</code>
+<br><br>
+⭐ <em>Interactive project demos & case studies</em>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/🌟_Coming_Soon-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🚀_Laravel_API-0080FF?style=for-the-badge&logo=laravel&logoColor=white" />
+<br><br>
+<strong>RESTful API Projects</strong>
 <br>
-<em>E-Commerce Platform</em>
-<br>
-<code>Laravel • Vue.js • MySQL</code>
+<em>Robust backend services with clean architecture</em>
+<br><br>
+<code>Laravel • MySQL • Redis • JWT Auth</code>
+<br><br>
+⭐ <em>Scalable, secure, and well-documented APIs</em>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 Weekly Development Stats
+## 💻 Development Focus Areas
 
-```text
-💻 Languages & Frameworks:
-PHP/Laravel     ████████████████████░   85% 
-JavaScript/TS   ████████████████░░░░░   75% 
-React/Next.js   ██████████████░░░░░░░   65% 
-TailwindCSS     ████████████████████░   90% 
-MySQL/PostgreSQL ████████████░░░░░░░░░   60% 
+```typescript
+// My specialized skill matrix
+interface SpecializationMatrix {
+  backend: {
+    framework: 'Laravel';
+    expertise: ['REST APIs', 'Database Design', 'Authentication', 'Performance'];
+    experience: '5+ years';
+  };
+  frontend: {
+    framework: 'Next.js';
+    expertise: ['SSR/SSG', 'React Hooks', 'State Management', 'UI/UX'];
+    experience: '4+ years';
+  };
+  fullStack: {
+    specialty: 'Laravel API + Next.js Frontend';
+    strengths: ['Clean Architecture', 'Performance Optimization', 'User Experience'];
+  };
+}
 
-🔥 Current Focus:
-Building scalable web applications with modern tech stack
-Exploring AI integration in web development
-Mastering cloud-native architectures
+const kevin: SpecializationMatrix = {
+  backend: {
+    framework: 'Laravel',
+    expertise: ['REST APIs', 'Database Design', 'Authentication', 'Performance'],
+    experience: '5+ years'
+  },
+  frontend: {
+    framework: 'Next.js', 
+    expertise: ['SSR/SSG', 'React Hooks', 'State Management', 'UI/UX'],
+    experience: '4+ years'
+  },
+  fullStack: {
+    specialty: 'Laravel API + Next.js Frontend',
+    strengths: ['Clean Architecture', 'Performance Optimization', 'User Experience']
+  }
+};
 ```
 
 ---
 
-## 🌟 Fun Facts About Me
+## 📈 Weekly Coding Activity
+
+```text
+🔥 This Week's Focus:
+
+Laravel (PHP)       ████████████████████░   90% 
+Next.js (React)     ████████████████░░░░░   80% 
+TypeScript          █████████████░░░░░░░░   65% 
+TailwindCSS         ████████████████████░   95% 
+Database Design     ████████████░░░░░░░░░   60% 
+
+💡 Current Projects:
+✨ Building scalable e-commerce platform (Laravel + Next.js)
+🚀 Optimizing API performance and frontend loading speeds
+📱 Creating responsive, mobile-first interfaces
+```
+
+---
+
+## 🌟 What I Bring to Your Project
 
 <div align="center">
 
-🎵 **Music Lover** - Coding to Lo-Fi beats  
-🌙 **Night Owl** - Best code happens after midnight  
-☕ **Coffee Addict** - Fueled by caffeine and curiosity  
-🎮 **Gamer** - Strategy games for problem-solving skills  
-📚 **Lifelong Learner** - Always exploring new technologies  
+🎯 **Laravel Backend Excellence**  
+*Clean APIs, solid architecture, optimized performance*
+
+⚛️ **Next.js Frontend Magic**  
+*Modern UIs, smooth interactions, lightning-fast loading*
+
+🔧 **Full-Stack Integration**  
+*Seamless communication between backend and frontend*
+
+📱 **Responsive Design**  
+*Perfect experience across all devices*
+
+⚡ **Performance First**  
+*Optimized code for speed and scalability*
+
+🛡️ **Security Focused**  
+*Best practices for authentication and data protection*
 
 </div>
 
 ---
 
-## 💬 Let's Connect & Collaborate!
+## 🤝 Let's Build Something Amazing!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://kev-workspace.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kev-workspace.vercel.app)
 [![Instagram Personal](https://img.shields.io/badge/@kevinnardd_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevinnardd_)
-[![Instagram Work](https://img.shields.io/badge/@kev.workspace-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kev.workspace)
-[![Email](https://img.shields.io/badge/Email_Me-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin@example.com)
+[![Instagram Work](https://img.shields.io/badge/@kev.workspace-0080FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kev.workspace)
+[![Contact](https://img.shields.io/badge/Get_In_Touch-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](https://kev-workspace.vercel.app/contact)
 
 </div>
 
 <div align="center">
-<h3>💼 Available for exciting projects!</h3>
-<p><em>Whether you need a complete web application, API development, or just want to discuss tech - I'm here to help!</em></p>
-</div>
-
----
-
-## 🎭 Random Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+<h3>💼 Ready for Your Next Project!</h3>
+<p><em>Need a Laravel API? A Next.js frontend? Or a complete full-stack solution?<br>
+Let's discuss how I can help bring your ideas to life! 🚀</em></p>
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 🎭 Daily Inspiration
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouchycode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=ffffff" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouchycode&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=0080FF&point=ffffff" />
 </div>
 
 ---
 
 <div align="center">
 
-### 🌟 *"Thank you for stopping by! Star ⭐ my repos if you find them useful!"* 🌟
+### 🌟 *"Thanks for visiting! Star ⭐ my repositories if they're helpful!"* 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=120&section=footer&animation=fadeIn" />
 
 </div>
