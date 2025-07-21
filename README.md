@@ -1,4 +1,4 @@
-````markdown
+
 <!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=200&section=header&text=Kevin%20Ardiansyah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20%26%20Next.js%20Developer&descAlignY=55&descSize=16" />
