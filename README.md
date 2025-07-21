@@ -1,25 +1,22 @@
-<!-- Animated Header -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Kevin%20Ardiansyah&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20Laravel%20%26%20Next.js%20Enthusiast&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=200&section=header&text=Kevin%20Ardiansyah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=55&descSize=16" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=👋+Welcome+to+my+digital+playground;🚀+Building+scalable+web+applications;💡+Transforming+ideas+into+reality;🌟+Always+learning%2C+always+growing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=👋+Hi+there!+I'm+Kevin;🚀+Laravel+%26+Next.js+Developer;💡+Building+awesome+web+apps;🌟+Always+learning+new+things" alt="Typing Animation" />
 </div>
 
-<!-- Profile Views & Social Proof -->
+<!-- Profile Stats -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ouchycode&style=for-the-badge&color=00D9FF&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ouchycode?style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ouchycode?affiliations=OWNER&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ouchycode&style=flat-square&color=00D9FF" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ouchycode?style=flat-square&color=00D9FF" alt="Followers" />
 </div>
 
 ---
 
 ## 🎯 About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF" width="400" />
 
 ```javascript
 const kevin = {
@@ -32,9 +29,11 @@ const kevin = {
 };
 ```
 
-### 🌟 What I Do
+Hey there! I'm **Kevin**, a passionate fullstack developer from Indonesia 🇮🇩  
+
+**🌟 What I Do:**
 - 🔧 Crafting **robust backend APIs** with Laravel
-- ⚡ Building **lightning-fast frontends** with Next.js
+- ⚡ Building **lightning-fast frontends** with Next.js  
 - 🎨 Designing **pixel-perfect UIs** with Tailwind CSS
 - ☁️ Deploying **cloud-native solutions** with Firebase & Supabase
 - 📱 Creating **responsive, mobile-first** web experiences
@@ -82,24 +81,20 @@ const kevin = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  
-### 📈 Performance Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&theme=radical&hide_border=true" width="48%" />
+</div>
 
-### 🎯 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ouchycode&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&layout=compact" width="48%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
 
-### 🏆 Achievement Gallery
-<img src="https://github-profile-trophy.vercel.app/?username=ouchycode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouchycode&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" />
-
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ouchycode&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -110,47 +105,37 @@ const kevin = {
 
 ### 🌐 **[Kevin's Digital Workspace](https://kev-workspace.vercel.app)**
 
-[![Portfolio Preview](https://img.shields.io/badge/🚀_Live_Preview-View_Now-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kev-workspace.vercel.app)
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ouchycode)
+[![Portfolio Preview](https://img.shields.io/badge/🚀_Live_Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kev-workspace.vercel.app)
 
-**✨ A showcase of creativity, innovation, and technical excellence**
+**✨ A showcase of my projects and technical skills**
 
 🔹 Modern, responsive design with smooth animations  
 🔹 Built with Next.js 14 & Tailwind CSS  
-🔹 Optimized performance & SEO-friendly  
 🔹 Interactive project demos & case studies  
 
 </div>
 
 ---
 
-## 💭 Developer Wisdom
+## 💭 Daily Inspiration
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Connect with Me
 
 <div align="center">
 
-### 📱 Social Media
-[![Personal Instagram](https://img.shields.io/badge/Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@kevinnardd_)](https://instagram.com/kevinnardd_)
-[![Work Instagram](https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@kev.workspace)](https://instagram.com/kev.workspace)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-ardiansyah)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kevinnardd_)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kev-workspace.vercel.app)
+[![Instagram Personal](https://img.shields.io/badge/@kevinnardd_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevinnardd_)
+[![Instagram Work](https://img.shields.io/badge/@kev.workspace-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kev.workspace)
 
-### 💼 Professional Inquiries
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kev-workspace.com)
-[![Portfolio Contact](https://img.shields.io/badge/Contact_Form-00D9FF?style=for-the-badge&logo=forms&logoColor=white)](https://kev-workspace.vercel.app/contact)
-
-### 🎯 Quick Stats
-📍 **Location:** Tangerang, Banten, Indonesia  
-🌐 **Website:** [kev-workspace.vercel.app](https://kev-workspace.vercel.app)  
-💬 **Available for:** Freelance projects, collaborations, mentoring  
-⏰ **Timezone:** GMT+7 (WIB)  
+**📍 Location:** Tangerang, Banten, Indonesia  
+**💼 Available for:** Freelance projects & collaborations  
+**✉️ Contact:** [Send me a message](https://kev-workspace.vercel.app/contact)
 
 </div>
 
@@ -158,10 +143,8 @@ const kevin = {
 
 <div align="center">
 
-### 🌟 Thank you for visiting my profile!
+**⭐ Thanks for visiting! Don't forget to star my repositories if you find them useful! ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-**⭐ If you find my work interesting, don't forget to star my repositories!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=120&section=footer" />
 
 </div>
