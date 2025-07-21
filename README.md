@@ -99,4 +99,4 @@
 
 - 🌐 Website: [kev-workspace.vercel.app](https://kev-workspace.vercel.app)  
 - 📍 Tangerang, Banten, Indonesia  
-- 📩 DM me on Instagram or [send me a message](https://kev-workspace.vercel.app#contact)
+- 📩 DM me on Instagram or [send me a message](https://kev-workspace.vercel.app/contact)
