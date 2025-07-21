@@ -69,10 +69,26 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&theme=radical)
+<!-- Dark Mode -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=radical" alt="Kevin's GitHub Stats (Dark)" />
+  <br/>
+  <a href="#light-mode">🌞 View Light Mode</a>
+</p>
+
+<!-- Light Mode -->
+<p align="center" id="light-mode">
+  <img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=default" alt="Kevin's GitHub Stats (Light)" />
+  <br/>
+  <a href="#github-insights">🌙 Back to Dark Mode</a>
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
