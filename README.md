@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=200&section=header&text=Kevin%20Ardiansyah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20%26%20Next.js%20Developer&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=200&section=header&text=Kevin%20Ardiansyah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=55&descSize=16" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=👋+Hi+there!+I'm+Kevin;🚀+Laravel+%26+Next.js+Developer;💡+Crafting+Modern+Web+Apps;🌟+Learning+and+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=👋+Hi+there!+I'm+Kevin;🚀+Laravel+%26+Next.js+Developer;💡+Building+awesome+web+apps;🌟+Always+learning+new+things" alt="Typing Animation" />
 </div>
 
 <!-- Profile Stats -->
