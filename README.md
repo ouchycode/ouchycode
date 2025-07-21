@@ -98,7 +98,7 @@ Some of the ways I use Firebase in my apps:
 
 ## 🐍 GitHub Activity Snake
 
-![snake gif](https://github.com/ouchycode/ouchycode/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ouchycode/ouchycode/output/github-contribution-grid-snake.svg)
 
 ---
 
