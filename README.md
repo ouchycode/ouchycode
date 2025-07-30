@@ -81,9 +81,9 @@ Hey there! I'm **Kevin**, a passionate developer from Indonesia 🇮🇩
 
 <div align="center">
 
-### 🔗 *[Kevin's Digital Workspace](https://kev-workspace.vercel.app)*
+### 🔗 *[Kevin's Digital Workspace](https://kodebykevin.vercel.app)*
 
-[![Portfolio Preview](https://img.shields.io/badge/🚀_Live_Preview-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://kev-workspace.vercel.app)
+[![Portfolio Preview](https://img.shields.io/badge/🚀_Live_Preview-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://kodebykevin.vercel.app)
 
 ✨ A curated showcase of my Laravel & Next.js projects
 
@@ -103,13 +103,13 @@ Hey there! I'm **Kevin**, a passionate developer from Indonesia 🇮🇩
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://kev-workspace.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://kodebykevin.vercel.app)
 [![Instagram Personal](https://img.shields.io/badge/@kevinnardd_-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/kevinnardd_)
 [![Instagram Work](https://img.shields.io/badge/@kev.workspace-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/kev.workspace)
 
 📍 Tangerang, Banten, Indonesia
 💼 Available for freelance & collaboration
-📬 [Get in Touch](https://kev-workspace.vercel.app/contact)
+📬 [Get in Touch](https://kodebykevin.vercel.app/contact)
 
 </div>
 
