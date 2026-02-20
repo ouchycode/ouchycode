@@ -62,7 +62,7 @@ Currently open to internship or junior-level frontend opportunities.
 
 ## 🌐 Portfolio
 
-🔗 https://kodebykevin.vercel.app  
+🔗 https://craftedbykevin.vercel.app  
 
 ---
 
