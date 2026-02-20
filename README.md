@@ -1,51 +1,53 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=180&section=header&text=Kevin%20Ardiansyah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Developer&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=180&section=header&text=Kevin%20Ardiansyah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Developer&descAlignY=58&descSize=16" />
 </div>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I am a **Junior Frontend Developer** with strong experience in building responsive and scalable web applications using **Next.js, React, and Tailwind CSS**.
+I am a Junior Frontend Developer focused on building responsive and user-friendly web interfaces using modern JavaScript frameworks. 
 
-I focus on writing clean, maintainable code and creating modern user interfaces with performance and usability in mind. I am comfortable collaborating with backend teams and integrating RESTful APIs (Laravel-based services).
+I have experience working with React and Next.js, styling with Tailwind CSS, and integrating REST APIs. I am continuously improving my problem-solving skills and frontend fundamentals.
 
-Currently seeking opportunities to contribute to a professional development team and grow as a Frontend Engineer.
+Currently open to internship or junior-level frontend opportunities.
 
 ---
 
-## 🛠 Core Skills
+## 🛠 Technical Skills
 
-### Frontend Development
-- React.js & Next.js
-- TypeScript
-- Tailwind CSS
+### Frontend Fundamentals
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 - Responsive Web Design
-- Component-Based Architecture
-- State Management (Basic)
 
-### API & Backend Collaboration
+### Framework & Library
+- React.js (Basic to Intermediate)
+- Next.js (Basic)
+- Tailwind CSS
+- TypeScript (Basic)
+
+### API & Backend Integration
 - REST API Integration
-- Laravel Backend Collaboration
-- MySQL (Basic Understanding)
+- Basic understanding of Laravel backend
+- Basic MySQL knowledge
 
-### Tools & Workflow
+### Tools
 - Git & GitHub
 - Vercel Deployment
-- Firebase (Basic)
-- Basic CI/CD Understanding
+- Basic Firebase usage
 
 ---
 
-## 🚀 What I Can Contribute
+## 💼 What I Can Do
 
-- Build responsive and pixel-accurate UI from Figma designs  
-- Optimize frontend performance and loading speed  
-- Structure scalable frontend project architecture  
-- Integrate APIs efficiently  
-- Write clean, readable, and maintainable code  
-- Work collaboratively in a team environment  
+- Convert UI design into responsive web pages  
+- Build reusable React components  
+- Connect frontend to REST APIs  
+- Debug and improve existing UI  
+- Work in a collaborative development environment  
 
 ---
 
@@ -67,11 +69,4 @@ Currently seeking opportunities to contribute to a professional development team
 ## 📫 Contact
 
 📍 Tangerang, Indonesia  
-💼 Open to full-time / internship / freelance opportunities  
-📧 Available upon request  
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer" />
-</div>
+💼 Open for Internship / Junior Frontend Role  
