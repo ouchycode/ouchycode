@@ -62,9 +62,9 @@ I'm a frontend developer focused on building clean, responsive web interfaces. I
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&hide_border=true&hide_title=true&theme=default&icon_color=0ea5e9&text_color=374151&bg_color=ffffff" height="155" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&hide_border=true&background=ffffff&ring=0ea5e9&fire=0ea5e9&currStreakLabel=374151&sideLabels=374151&dates=9ca3af&currStreakNum=374151&sideNums=374151" height="155" />
+![contributions](https://img.shields.io/badge/contributions-202_in_the_last_year-0ea5e9?style=flat-square&logo=github&logoColor=white)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouchycode&bg_color=ffffff&color=374151&line=0ea5e9&point=0ea5e9&area=true&area_color=e0f2fe&hide_border=true&custom_title=contribution+activity" width="96%" />
 
 </div>
 
