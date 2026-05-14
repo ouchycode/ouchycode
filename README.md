@@ -1,152 +1,149 @@
 <div align="center">
-<br/>
+
+<!-- PIXEL HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a2e&height=10&section=header" width="100%"/>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     k e v i n   a r d i a n s y a h                         ║
-║     ─────────────────────────────────────                    ║
-║     frontend developer  ·  tangerang, id                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+ ██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗
+ ██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║
+ █████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║
+ ██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
+ ██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║
+ ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-[![portfolio](https://img.shields.io/badge/portfolio-portfolio--bykevin.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-bykevin.vercel.app)
-&ensp;
-[![github](https://img.shields.io/badge/github-ouchycode-000?style=flat-square&logo=github)](https://github.com/ouchycode)
-&ensp;
-![open to work](https://img.shields.io/badge/open_to_work-internship_·_junior_role-00c896?style=flat-square)
+```
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+  JUNIOR FRONTEND DEVELOPER  ·  TANGERANG, ID  ·  LVL 01
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+```
+
+[![portfolio](https://img.shields.io/badge/🕹️_PORTFOLIO-ENTER_STAGE-brightgreen?style=for-the-badge&labelColor=000)](https://portfolio-bykevin.vercel.app)
+&nbsp;
+[![github](https://img.shields.io/badge/🐙_GITHUB-OUCHYCODE-blueviolet?style=for-the-badge&labelColor=000)](https://github.com/ouchycode)
+&nbsp;
+![status](https://img.shields.io/badge/📡_STATUS-OPEN_TO_WORK-ff6b35?style=for-the-badge&labelColor=000)
 
 </div>
 
-<br/>
+---
+
+## `[ PLAYER INFO ]`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   NAME    :  Kevin Ardiansyah                               │
+│   CLASS   :  Frontend Developer                             │
+│   LVL     :  Junior  [██████████░░░░░░░░░░]  50%           │
+│   GUILD   :  Open for Internship / Junior Role              │
+│   SPAWN   :  Tangerang, Indonesia 🇮🇩                       │
+│   QUEST   :  Build clean UIs. Ship great products.          │
+│                                                             │
+│   ❝ I don't chase trends. I learn fundamentals. ❞           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
+## `[ SKILL TREE ]`
+
 ```
-about ──────────────────────────────────────────────────────────
+╔══════════════════ ⚔️  FRONTEND BRANCH ═══════════════════╗
+
+  HTML5          [████████████████████] LVL 10  ★ MASTERED
+  CSS3           [████████████████████] LVL 10  ★ MASTERED
+  JavaScript     [████████████████░░░░] LVL  8  ▲ ACTIVE
+  TypeScript     [████████████░░░░░░░░] LVL  6  ▲ TRAINING
+
+╠══════════════════ 🛡️  FRAMEWORK BRANCH ════════════════════╣
+
+  React.js       [████████████████░░░░] LVL  8  ▲ ACTIVE
+  Next.js        [████████████░░░░░░░░] LVL  6  ▲ TRAINING
+  Tailwind CSS   [████████████████████] LVL 10  ★ MASTERED
+
+╠══════════════════ 🔮  BACKEND TOUCH ═══════════════════════╣
+
+  REST API       [████████████████░░░░] LVL  8  ▲ ACTIVE
+  Laravel        [████████░░░░░░░░░░░░] LVL  4  ○ BASIC
+  MySQL          [████████░░░░░░░░░░░░] LVL  4  ○ BASIC
+  Firebase       [████████████░░░░░░░░] LVL  5  ○ BASIC
+
+╠══════════════════ 🗡️  TOOLS & GEAR ════════════════════════╣
+
+  Git & GitHub   [████████████████████] LVL 10  ★ MASTERED
+  Vercel         [████████████████████] LVL 10  ★ MASTERED
+  VS Code        [████████████████████] LVL 10  ★ MASTERED
+
+╚════════════════════════════════════════════════════════════╝
 ```
-
-I build interfaces that feel *right* — responsive, accessible,  
-and clean. Currently sharpening my craft with React & Next.js,  
-and always looking for the next problem worth solving.
-
-> Not just a template follower. A pattern learner.
-
-<br/>
 
 ---
 
-```
-stack ──────────────────────────────────────────────────────────
-```
+## `[ ABILITIES UNLOCKED ]`
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**language & markup**
 ```
-html5          ████████████  fluent
-css3           ████████████  fluent
-javascript     ████████████  intermediate
-typescript     ████████░░░░  learning
+  [✔]  Pixel-perfect UI from design mockups
+  [✔]  Reusable React component architecture
+  [✔]  REST API integration & state management
+  [✔]  Responsive layout for all screen sizes
+  [✔]  Debug & refactor existing codebases
+  [✔]  Collaborative Git-based team workflow
+  [ ]  ??? — UNLOCKS AFTER FIRST JOB 🔒
 ```
-
-</td>
-<td valign="top" width="50%">
-
-**tools & deployment**
-```
-git / github   ████████████  daily
-vercel         ████████████  daily
-firebase       ██████░░░░░░  basic
-vs code        ████████████  fluent
-```
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**frameworks**
-```
-react.js       ████████░░░░  intermediate
-next.js        ██████░░░░░░  basic
-tailwind css   ████████████  fluent
-```
-
-</td>
-<td valign="top">
-
-**backend touch**
-```
-rest api       ████████░░░░  integration
-laravel        ████░░░░░░░░  basic
-mysql          ████░░░░░░░░  basic
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ---
 
-```
-what i do ──────────────────────────────────────────────────────
-```
-
-```
-◆  pixel-perfect implementation from design files
-◆  reusable, scalable React component architecture
-◆  REST API integration & async data handling
-◆  debugging, refactoring, and UI improvement
-◆  responsive layout across all screen sizes
-◆  collaborative Git-based team workflows
-```
-
-<br/>
-
----
-
-```
-github ─────────────────────────────────────────────────────────
-```
+## `[ GITHUB STATS — ACHIEVEMENTS ]`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&hide_title=true&hide_border=true&theme=graywhite&icon_color=000000&text_color=555555&bg_color=fafafa" />
-&ensp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&hide_border=true&background=fafafa&ring=000000&fire=555555&currStreakLabel=555555&sideLabels=555555&dates=aaaaaa&currStreakNum=000000&sideNums=000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=radical&hide_border=false&border_color=7F3FBF&bg_color=0D001A&title_color=C56BFE&icon_color=C56BFE&text_color=ffffff&rank_icon=github&border_radius=0" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&theme=radical&hide_border=false&border=7F3FBF&background=0D001A&ring=C56BFE&fire=FF6B35&currStreakLabel=C56BFE&sideLabels=C56BFE&border_radius=0" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouchycode&bg_color=fafafa&color=555555&line=000000&point=000000&area=true&area_color=eeeeee&hide_border=true&custom_title=contribution+graph" width="96%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&theme=radical&hide_border=false&border_color=7F3FBF&bg_color=0D001A&title_color=C56BFE&text_color=ffffff&border_radius=0" width="40%" />
 
 </div>
 
-<br/>
-
 ---
 
-```
-contact ────────────────────────────────────────────────────────
-```
-
-```yaml
-name     : Kevin Ardiansyah
-location : Tangerang, Indonesia
-seeking  : Internship · Junior Frontend Developer
-website  : https://portfolio-bykevin.vercel.app
-github   : https://github.com/ouchycode
-```
-
-<br/>
-
----
+## `[ ACTIVITY LOG ]`
 
 <div align="center">
-<sub>designed with intention · built with care</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouchycode&bg_color=0D001A&color=C56BFE&line=7F3FBF&point=FF6B35&area=true&area_color=3D0070&hide_border=false&border_color=7F3FBF&custom_title=CONTRIBUTION+MAP" width="97%" />
+</div>
+
+---
+
+## `[ CONTACT — SEND MESSAGE ]`
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   TO      :  Kevin Ardiansyah                            │
+│   FROM    :  ??? (that's you)                            │
+│   RE      :  Internship / Junior Frontend Role           │
+│                                                          │
+│   🌐  portfolio-bykevin.vercel.app                       │
+│   🐙  github.com/ouchycode                               │
+│   📍  Tangerang, Indonesia                               │
+│                                                          │
+│   > Press [ENTER] to start collaboration_               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        THANKS FOR VISITING — INSERT COIN TO HIRE
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ouchycode.ouchycode&left_color=black&right_color=blueviolet&left_text=visitors)
+
 </div>
