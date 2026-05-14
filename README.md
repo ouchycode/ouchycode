@@ -66,7 +66,7 @@ I'm a frontend developer focused on building clean, responsive web interfaces. I
 
 <br/><br/>
 
-<img src="https://ghchart.ssh.surf/ouchycode" alt="Kevin's GitHub Contribution Chart" width="96%" />
+<img src="https://ssr.devio.us/api/github-contributions-card?user=ouchycode&flat=true" alt="Kevin's GitHub Contribution Chart" width="96%" />
 
 </div>
 
