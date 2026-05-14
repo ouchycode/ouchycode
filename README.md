@@ -1,149 +1,77 @@
 <div align="center">
 
-<!-- PIXEL HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a2e&height=10&section=header" width="100%"/>
+<br/>
 
-```
- ██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗
- ██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║
- █████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║
- ██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
- ██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║
- ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
-```
+# Kevin Ardiansyah
 
-```
-▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-  JUNIOR FRONTEND DEVELOPER  ·  TANGERANG, ID  ·  LVL 01
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
-```
+**Junior Frontend Developer**
 
-[![portfolio](https://img.shields.io/badge/🕹️_PORTFOLIO-ENTER_STAGE-brightgreen?style=for-the-badge&labelColor=000)](https://portfolio-bykevin.vercel.app)
+Tangerang, Indonesia &nbsp;·&nbsp; Open to Internship & Junior Roles
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-bykevin.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ouchycode)
+
+</div>
+
+<br/>
+
+---
+
+I'm a frontend developer focused on building clean, responsive web interfaces. I work primarily with **React** and **Next.js**, style with **Tailwind CSS**, and integrate **REST APIs**. Currently growing my skills and looking for opportunities to contribute to real products.
+
+---
+
+<br/>
+
+## Skills
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&hide_border=true&hide_title=true&theme=default&icon_color=0ea5e9&text_color=374151&bg_color=ffffff" height="155" />
 &nbsp;
-[![github](https://img.shields.io/badge/🐙_GITHUB-OUCHYCODE-blueviolet?style=for-the-badge&labelColor=000)](https://github.com/ouchycode)
-&nbsp;
-![status](https://img.shields.io/badge/📡_STATUS-OPEN_TO_WORK-ff6b35?style=for-the-badge&labelColor=000)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&hide_border=true&background=ffffff&ring=0ea5e9&fire=0ea5e9&currStreakLabel=374151&sideLabels=374151&dates=9ca3af&currStreakNum=374151&sideNums=374151" height="155" />
 
 </div>
 
----
-
-## `[ PLAYER INFO ]`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   NAME    :  Kevin Ardiansyah                               │
-│   CLASS   :  Frontend Developer                             │
-│   LVL     :  Junior  [██████████░░░░░░░░░░]  50%           │
-│   GUILD   :  Open for Internship / Junior Role              │
-│   SPAWN   :  Tangerang, Indonesia 🇮🇩                       │
-│   QUEST   :  Build clean UIs. Ship great products.          │
-│                                                             │
-│   ❝ I don't chase trends. I learn fundamentals. ❞           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 ---
-
-## `[ SKILL TREE ]`
-
-```
-╔══════════════════ ⚔️  FRONTEND BRANCH ═══════════════════╗
-
-  HTML5          [████████████████████] LVL 10  ★ MASTERED
-  CSS3           [████████████████████] LVL 10  ★ MASTERED
-  JavaScript     [████████████████░░░░] LVL  8  ▲ ACTIVE
-  TypeScript     [████████████░░░░░░░░] LVL  6  ▲ TRAINING
-
-╠══════════════════ 🛡️  FRAMEWORK BRANCH ════════════════════╣
-
-  React.js       [████████████████░░░░] LVL  8  ▲ ACTIVE
-  Next.js        [████████████░░░░░░░░] LVL  6  ▲ TRAINING
-  Tailwind CSS   [████████████████████] LVL 10  ★ MASTERED
-
-╠══════════════════ 🔮  BACKEND TOUCH ═══════════════════════╣
-
-  REST API       [████████████████░░░░] LVL  8  ▲ ACTIVE
-  Laravel        [████████░░░░░░░░░░░░] LVL  4  ○ BASIC
-  MySQL          [████████░░░░░░░░░░░░] LVL  4  ○ BASIC
-  Firebase       [████████████░░░░░░░░] LVL  5  ○ BASIC
-
-╠══════════════════ 🗡️  TOOLS & GEAR ════════════════════════╣
-
-  Git & GitHub   [████████████████████] LVL 10  ★ MASTERED
-  Vercel         [████████████████████] LVL 10  ★ MASTERED
-  VS Code        [████████████████████] LVL 10  ★ MASTERED
-
-╚════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `[ ABILITIES UNLOCKED ]`
-
-```
-  [✔]  Pixel-perfect UI from design mockups
-  [✔]  Reusable React component architecture
-  [✔]  REST API integration & state management
-  [✔]  Responsive layout for all screen sizes
-  [✔]  Debug & refactor existing codebases
-  [✔]  Collaborative Git-based team workflow
-  [ ]  ??? — UNLOCKS AFTER FIRST JOB 🔒
-```
-
----
-
-## `[ GITHUB STATS — ACHIEVEMENTS ]`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ouchycode&show_icons=true&theme=radical&hide_border=false&border_color=7F3FBF&bg_color=0D001A&title_color=C56BFE&icon_color=C56BFE&text_color=ffffff&rank_icon=github&border_radius=0" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchycode&theme=radical&hide_border=false&border=7F3FBF&background=0D001A&ring=C56BFE&fire=FF6B35&currStreakLabel=C56BFE&sideLabels=C56BFE&border_radius=0" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchycode&layout=compact&theme=radical&hide_border=false&border_color=7F3FBF&bg_color=0D001A&title_color=C56BFE&text_color=ffffff&border_radius=0" width="40%" />
-
-</div>
-
----
-
-## `[ ACTIVITY LOG ]`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouchycode&bg_color=0D001A&color=C56BFE&line=7F3FBF&point=FF6B35&area=true&area_color=3D0070&hide_border=false&border_color=7F3FBF&custom_title=CONTRIBUTION+MAP" width="97%" />
-</div>
-
----
-
-## `[ CONTACT — SEND MESSAGE ]`
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   TO      :  Kevin Ardiansyah                            │
-│   FROM    :  ??? (that's you)                            │
-│   RE      :  Internship / Junior Frontend Role           │
-│                                                          │
-│   🌐  portfolio-bykevin.vercel.app                       │
-│   🐙  github.com/ouchycode                               │
-│   📍  Tangerang, Indonesia                               │
-│                                                          │
-│   > Press [ENTER] to start collaboration_               │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-        THANKS FOR VISITING — INSERT COIN TO HIRE
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ouchycode.ouchycode&left_color=black&right_color=blueviolet&left_text=visitors)
-
+<sub>portfolio-bykevin.vercel.app &nbsp;·&nbsp; ouchycode</sub>
 </div>
